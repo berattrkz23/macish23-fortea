@@ -12,5 +12,5 @@ $ npm install fortea-macish23
 
 #KULLANIM
 
-var hello = require('fortea-macish23')
+var hello = require('macish23-fortea')
 hello()
