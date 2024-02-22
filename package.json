@@ -7,3 +7,11 @@
     "url": "git://github.com/berattrkz23/macish23-fortea"
   }
 }
+"homepage": "https://github.com/seanewest/hello-world-classic",
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "main": "index.js",
+  "author": "Berat Türköz",
+}
