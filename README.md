@@ -8,9 +8,9 @@ module.exports = function() {
 }
 #İNDİRME
 
-$ npm install hello-world-classic
+$ npm install fortea-macish23
 
 #KULLANIM
 
-var hello = require('hello-world-classic')
+var hello = require('fortea-macish23')
 hello()
