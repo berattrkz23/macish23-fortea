@@ -1,16 +1,22 @@
-# macish23-fortea
-a simple npm js hello world repo I created to add to the tea protocol
+# AŞAĞIDAKİ YAZILARLA İLGİLİ BİR ŞEY YOK TEARANK ALGORİTMASINI TEST EDİYORUM.
 
-#Tüm kodlar burada
+Write less. Ship more.
 
-module.exports = function() {
-  console.log('hello, world')
-}
-#İNDİRME
+[![Build Status](https://img.shields.io/travis/hello-js/hello/master.svg)](https://travis-ci.org/hello-js/hello)
+[![Coverage Status](https://img.shields.io/coveralls/hello-js/hello.svg)](https://coveralls.io/github/hello-js/hello)
+[![Dependency Status](https://img.shields.io/david/hello-js/hello.svg)](https://david-dm.org/hello-js/hello)
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
-$ npm install fortea-macish23
+## Installation
 
-#KULLANIM
+Hello is available via `yarn` and `npm`.  To install, simply run:
 
-var hello = require('macish23-fortea')
-hello()
+```
+yarn add hello
+```
+
+## Testing
+
+```
+yarn test
+```
