@@ -12,11 +12,11 @@ Write less. Ship more.
 Hello is available via `yarn` and `npm`.  To install, simply run:
 
 ```
-yarn add hello
+yarn add xdxdxd
 ```
 
 ## Testing
 
 ```
-yarn test
+yarn testxdxdxd
 ```
